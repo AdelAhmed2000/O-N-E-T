@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="30" viewBox="0 0 44 30">
+  <g id="germany" transform="translate(0.19 -80)">
+    <path id="Path_1597" data-name="Path 1597" d="M0,304v6.034A4.161,4.161,0,0,0,4.221,314.3H39.4a4.161,4.161,0,0,0,4.221-4.268V304Z" transform="translate(0 -204.301)" fill="#f8d12e"/>
+    <path id="Path_1598" data-name="Path 1598" d="M39.4,80H4.221A4.161,4.161,0,0,0,0,84.268V90.3H43.62V84.268A4.161,4.161,0,0,0,39.4,80Z" fill="#333"/>
+    <rect id="Rectangle_2821" data-name="Rectangle 2821" width="44" height="10" transform="translate(-0.19 90)" fill="#db2727"/>
+    <path id="Path_1599" data-name="Path 1599" d="M327.267,314.3a4.385,4.385,0,0,0,4.562-4.268V304H315.2Z" transform="translate(-288.209 -204.301)" fill="#dbb30f"/>
+    <path id="Path_1600" data-name="Path 1600" d="M83,80H48L59.621,90.3H87.2V84.268A4.151,4.151,0,0,0,83,80Z" transform="translate(-43.585)" fill="#202121"/>
+    <path id="Path_1601" data-name="Path 1601" d="M192.509,202.3h16.556V192H180Z" transform="translate(-165.444 -102.151)" fill="#c10e0e"/>
+    <path id="Path_1602" data-name="Path 1602" d="M83,80H48L80.414,90.3H87.2V84.268A4.151,4.151,0,0,0,83,80Z" transform="translate(-43.585)"/>
+    <path id="Path_1603" data-name="Path 1603" d="M421.905,194.06V192H414.4Z" transform="translate(-378.286 -102.022)" fill="#a00808"/>
+    <path id="Path_1604" data-name="Path 1604" d="M43.62,368.074a4.1,4.1,0,0,1-4.221,4.341H4.221A4.288,4.288,0,0,1,0,368" transform="translate(0 -262.415)" fill="#d89f12"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.25" height="30" viewBox="0 0 44.25 30">
+  <g id="kuwait" transform="translate(0.125 -113.648)">
+    <path id="Path_1512" data-name="Path 1512" d="M7.911,306.3H44v4.777c-.007,2.716-1.8,4.916-4.016,4.924H4.015C1.8,315.992.006,313.792,0,311.076V306.3Z" transform="translate(0 -172.352)" fill="#d80027" fill-rule="evenodd"/>
+    <path id="Path_1513" data-name="Path 1513" d="M7.911,123.348H0v-4.777c.007-2.716,1.8-4.916,4.016-4.924H39.984c2.215.008,4.009,2.208,4.016,4.924v4.777Z" transform="translate(0)" fill="#007a3d" fill-rule="evenodd"/>
+    <path id="Path_1514" data-name="Path 1514" d="M92.053,205.7H136.3v10.6H92.053Z" transform="translate(-92.178 -82.357)" fill="#f5f5f5"/>
+    <g id="Group_682" data-name="Group 682" transform="translate(0 114.843)">
+      <path id="Path_1515" data-name="Path 1515" d="M9.7,147.042v-16.5l-7.983-5.556A4.917,4.917,0,0,0,0,128.718V148.87A4.917,4.917,0,0,0,1.717,152.6Z" transform="translate(0 -124.989)" fill="#6b809b" fill-rule="evenodd"/>
+      <path id="Path_1516" data-name="Path 1516" d="M13.936,144.094v-10.6L9.7,130.545l-7.983-5.556A4.917,4.917,0,0,0,0,128.718V148.87A4.917,4.917,0,0,0,1.717,152.6L9.7,147.042Z" transform="translate(0 -124.989)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
